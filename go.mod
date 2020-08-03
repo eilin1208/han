@@ -1,4 +1,4 @@
-module hanlin
+module github.com/eilin1208/hanlin
 
 go 1.14
 
