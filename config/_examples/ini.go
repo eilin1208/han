@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/hanlin1123/go-boxs/config"
-	"github.com/hanlin1123/go-boxs/config/ini"
+	"hanlin1123/go-boxs/config"
+	"hanlin1123/go-boxs/config/ini"
 )
 
 // go run ./examples/ini.go

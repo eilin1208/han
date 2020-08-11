@@ -3,7 +3,7 @@ package ini
 import (
 	"strings"
 
-	"github.com/hanlin1123/go-boxs/ini/parser"
+	"hanlin1123/go-boxs/ini/parser"
 )
 
 // parse and load data

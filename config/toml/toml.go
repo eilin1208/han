@@ -10,8 +10,9 @@ package toml
 import (
 	"bytes"
 
+	"hanlin1123/go-boxs/config"
+
 	"github.com/BurntSushi/toml"
-	"github.com/hanlin1123/go-boxs/config"
 )
 
 // Decoder the toml content decoder

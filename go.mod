@@ -1,4 +1,4 @@
-module github.com/hanlin1123/go-boxs
+module hanlin1123/go-boxs
 
 go 1.13
 
