@@ -8,7 +8,8 @@ package hcl
 import (
 	"errors"
 
-	"github.com/gookit/config/v2"
+	"go-boxs/config"
+
 	"github.com/hashicorp/hcl"
 )
 

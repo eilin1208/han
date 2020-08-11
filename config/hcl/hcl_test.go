@@ -3,7 +3,8 @@ package hcl
 import (
 	"testing"
 
-	"github.com/gookit/config/v2"
+	"go-boxs/config"
+
 	"github.com/stretchr/testify/assert"
 )
 

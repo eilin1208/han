@@ -4,8 +4,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/config/v2/ini"
+	"go-boxs/config"
+
+	"go-boxs/config/ini"
 )
 
 // go run ./examples/ini.go

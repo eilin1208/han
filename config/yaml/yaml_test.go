@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gookit/config/v2"
+	"go-boxs/config"
+
 	"github.com/gookit/goutil/testutil"
 	"github.com/stretchr/testify/assert"
 )

@@ -2,9 +2,10 @@
 package json
 
 import (
-	"github.com/gookit/config/v2"
+	"go-boxs/config"
+
 	"github.com/gookit/goutil/jsonutil"
-	"github.com/json-iterator/go"
+	jsoniter "github.com/json-iterator/go"
 )
 
 var parser = jsoniter.ConfigCompatibleWithStandardLibrary
