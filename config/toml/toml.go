@@ -10,7 +10,7 @@ package toml
 import (
 	"bytes"
 
-	"go-boxs/config"
+	"github.com/hanlin1123/go-boxs/config"
 
 	"github.com/BurntSushi/toml"
 )

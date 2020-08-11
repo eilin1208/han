@@ -3,8 +3,9 @@ package main
 import (
 	"fmt"
 
-	"go-boxs/config"
-	"go-boxs/config/toml"
+	"github.com/hanlin1123/go-boxs/config"
+
+	"github.com/hanlin1123/go-boxs/config/toml"
 )
 
 // go run ./examples/toml.go

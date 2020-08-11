@@ -6,9 +6,9 @@ about ini parse, please see https://github.com/gookit/ini/parser
 package ini
 
 import (
-	"go-boxs/config"
+	"github.com/hanlin1123/go-boxs/config"
 
-	"go-boxs/ini/parser"
+	"github.com/hanlin1123/go-boxs/ini/parser"
 )
 
 // Decoder the ini content decoder
