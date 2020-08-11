@@ -3,9 +3,9 @@ Package ini is a ini config file/data manage implement
 
 Source code and other details for the project are available at GitHub:
 
-	https://github.com/gookit/ini
+	https://github.com/hanlin1123/go-boxs/ini
 
-INI parser is: https://github.com/gookit/ini/parser
+INI parser is: https://github.com/hanlin1123/go-boxs/ini/parser
 
 */
 package ini

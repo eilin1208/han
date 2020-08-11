@@ -4,7 +4,6 @@ import (
 	"testing"
 
 	"github.com/hanlin1123/go-boxs/config"
-
 	"github.com/stretchr/testify/assert"
 )
 

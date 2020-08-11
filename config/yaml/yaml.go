@@ -9,7 +9,6 @@ package yaml
 // see https://godoc.org/gopkg.in/yaml.v2
 import (
 	"github.com/hanlin1123/go-boxs/config"
-
 	"gopkg.in/yaml.v2"
 )
 
