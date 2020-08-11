@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/gookit/goutil/dump"
+	"github.com/hanlin1123/go-boxs/goutil/dump"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ package config
 import (
 	"encoding/json"
 
-	"github.com/gookit/goutil/jsonutil"
+	"github.com/hanlin1123/go-boxs/goutil/jsonutil"
 )
 
 // JSONAllowComments support write comments on json file.
