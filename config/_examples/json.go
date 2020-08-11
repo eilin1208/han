@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"hanlin1123/go-boxs/config"
-	"hanlin1123/go-boxs/config/json"
+	"github.com/hanlin1123/go-boxs/config"
+	"github.com/hanlin1123/go-boxs/config/json"
 )
 
 // go run ./examples/json.go

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"hanlin1123/go-boxs/ini"
+	"github.com/hanlin1123/go-boxs/ini"
 
 	"github.com/stretchr/testify/assert"
 )

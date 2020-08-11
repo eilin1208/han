@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"hanlin1123/go-boxs/ini/parser"
+	"github.com/hanlin1123/go-boxs/ini/parser"
 )
 
 var (

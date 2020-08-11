@@ -2,7 +2,7 @@
 package json
 
 import (
-	"hanlin1123/go-boxs/config"
+	"github.com/hanlin1123/go-boxs/config"
 
 	"github.com/gookit/goutil/jsonutil"
 	jsoniter "github.com/json-iterator/go"

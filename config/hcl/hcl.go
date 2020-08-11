@@ -8,7 +8,7 @@ package hcl
 import (
 	"errors"
 
-	"hanlin1123/go-boxs/config"
+	"github.com/hanlin1123/go-boxs/config"
 
 	"github.com/hashicorp/hcl"
 )
